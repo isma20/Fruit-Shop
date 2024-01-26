@@ -1,0 +1,14 @@
+body{
+    background: #f5f4f4;
+}
+
+.carousel-item img{
+    width: 100%;
+    height: 800px;
+    display:block;
+    text-align: center;
+}
+
+.custom{
+    height: 600px;
+}
